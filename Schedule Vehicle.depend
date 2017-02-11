@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1486792245 source:h:\contestprogramming\schedule vehicle\task 5.cpp
+	<iostream>
+	<string.h>
+	"LineSchedule.hpp"
+
+1486792107 h:\contestprogramming\schedule vehicle\lineschedule.hpp
+	<iostream>
+	"Line.hpp"
+	"Vehicle.hpp"
+	"Bus.hpp"
+	"LocalBus.hpp"
+	"LongDistanceBus.hpp"
+	"Tram.hpp"
+	"Staff.hpp"
+	"Driver.hpp"
+	"Mechanic.hpp"
+	"WorkUnit.hpp"
+	"Tour.hpp"
+	"Maintenace.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\line.hpp
+	<iostream>
+	"Time.hpp"
+	"Stop.hpp"
+	"Departuret.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\time.hpp
+	<iostream>
+
+1486712296 h:\contestprogramming\schedule vehicle\stop.hpp
+	<iostream>
+	"Time.hpp"
+	<string.h>
+
+1486712296 h:\contestprogramming\schedule vehicle\departuret.hpp
+	<iostream>
+	"Time.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\vehicle.hpp
+	<iostream>
+	"Time.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\bus.hpp
+	<iostream>
+	"Vehicle.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\localbus.hpp
+	<iostream>
+	"Bus.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\longdistancebus.hpp
+	<iostream>
+	"Bus.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\tram.hpp
+	<iostream>
+	"Vehicle.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\staff.hpp
+	<iostream>
+	"Time.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\driver.hpp
+	<iostream>
+	"Staff.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\mechanic.hpp
+	<iostream>
+	"Staff.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\workunit.hpp
+	<iostream>
+	"Time.hpp"
+	"Vehicle.hpp"
+	"Staff.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\tour.hpp
+	<iostream>
+	"WorkUnit.hpp"
+
+1486712296 h:\contestprogramming\schedule vehicle\maintenace.hpp
+	<iostream>
+	"WorkUnit.hpp"
+
