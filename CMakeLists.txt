@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.9)
+project(Schedule_Vehicles_and_Staff_for_Public_Transport_Line)
+
+set(CMAKE_CXX_STANDARD 11)
+
+#add_executable(Schedule_Vehicles_and_Staff_for_Public_Transport_Line src/Task4.cpp)
+#add_executable(Schedule_Vehicles_and_Staff_for_Public_Transport_Line test/test.cpp main.cpp)
+add_executable(Schedule_Vehicles_and_Staff_for_Public_Transport_Line main.cpp)
